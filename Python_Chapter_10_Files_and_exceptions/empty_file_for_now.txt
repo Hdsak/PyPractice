@@ -1,0 +1,4 @@
+I love python. 
+I love cocks
+This string is example of addition
+Another addition example

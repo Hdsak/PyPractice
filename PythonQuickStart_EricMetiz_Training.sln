@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Python_Chapter_2_Numbers", "PythonStart\Python_Chapter_2_Numbers.pyproj", "{A099CBB3-1414-4753-AEE9-97CE80DD9DFF}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Python_Chapter_3_Lists", "Python_Chapter_3_Lists\Python_Chapter_3_Lists.pyproj", "{9B1A99A4-9A12-4877-888D-9780EE428283}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Python_Chapter_4_Work_with_lists", "Python_Chapter_4_Work_with_lists\Python_Chapter_4_Work_with_lists.pyproj", "{AE9FEB65-3DC4-4461-9CFF-B19272C7190C}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Python_Chapter_5_If_Statement", "Python_Chapter_5_If_Statement\Python_Chapter_5_If_Statement.pyproj", "{58288C79-18B4-4A6C-8437-9B1684B00AB7}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Python_Chapter_6_Dictionary", "Python_Chapter_6_Dictionary\Python_Chapter_6_Dictionary.pyproj", "{341D2DE1-A1E2-4A7B-BE7D-C167FACE2886}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Python_Chapter_7_Input_and_while", "Input_and_while\Python_Chapter_7_Input_and_while.pyproj", "{A9C65164-0C4F-4941-AD7F-E7A5F0018D1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A099CBB3-1414-4753-AEE9-97CE80DD9DFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A099CBB3-1414-4753-AEE9-97CE80DD9DFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B1A99A4-9A12-4877-888D-9780EE428283}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B1A99A4-9A12-4877-888D-9780EE428283}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE9FEB65-3DC4-4461-9CFF-B19272C7190C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE9FEB65-3DC4-4461-9CFF-B19272C7190C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58288C79-18B4-4A6C-8437-9B1684B00AB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58288C79-18B4-4A6C-8437-9B1684B00AB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{341D2DE1-A1E2-4A7B-BE7D-C167FACE2886}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{341D2DE1-A1E2-4A7B-BE7D-C167FACE2886}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9C65164-0C4F-4941-AD7F-E7A5F0018D1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9C65164-0C4F-4941-AD7F-E7A5F0018D1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4361BCF0-C1CB-4962-904E-E3CFF2F94FAB}
+	EndGlobalSection
+EndGlobal
